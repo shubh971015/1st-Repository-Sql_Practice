@@ -1,0 +1,2 @@
+# 1st-Repository-Sql_Practice
+01_Aug_2024_Working_Hard_For_Data_Analyst_Role
